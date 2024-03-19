@@ -8,8 +8,8 @@ This is a personal finance application developed with React Native, where users 
 - Listing of the latest financial transactions, including expenses and income.
 
 ## Screenshots
-![Finance App Screenshot 1](https://github.com/mthaugusto/finance-app-expo-matheus/blob/main/finance-app-screenshot-1.png?raw=true)
-![Finance App Screenshot 2](https://github.com/mthaugusto/finance-app-expo-matheus/blob/main/finance-app-screenshot-2.png?raw=true)
+![Finance App Screenshot 1](https://github.com/mthaugusto/finance-app-expo-matheus/blob/main/finance-app-screenshot-1.png?raw=true){: width="300px"}
+![Finance App Screenshot 2](https://github.com/mthaugusto/finance-app-expo-matheus/blob/main/finance-app-screenshot-2.png?raw=true){: width="300px"}
 
 ## How to Use
 
