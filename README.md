@@ -17,11 +17,11 @@ This is a personal finance application developed with React Native, where users 
 
 2. **Cloning the Repository**: Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/repository-name.git
+git clone [https://github.com/your-username/repository-name.git](https://github.com/mthaugusto/finance-app-expo-matheus/)
 
 3. **Installing Dependencies**: Navigate to the project directory and install the dependencies by running:
 
-cd repository-name
+cd finance-app-expo-matheus
 npm install
 
 4. **Running the App**: With all dependencies installed, you can start the app on an emulator or physical device using:
