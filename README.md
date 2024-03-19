@@ -21,7 +21,7 @@ git clone https://github.com/mthaugusto/finance-app-expo-matheus/
 
 3. **Installing Dependencies**: Navigate to the project directory and install the dependencies by running:
 
-cd finance-app-expo-matheus
+cd finance-app-matheus
 npm install
 
 4. **Running the App**: With all dependencies installed, you can start the app on an emulator or physical device using:
