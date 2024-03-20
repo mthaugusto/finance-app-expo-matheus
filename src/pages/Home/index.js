@@ -1,4 +1,5 @@
 import { StatusBar } from "expo-status-bar";
+import React from "react";
 import { FlatList, StyleSheet, Text, View } from "react-native";
 import Header from "../../components/Header";
 import Balance from "../../components/Balance";
