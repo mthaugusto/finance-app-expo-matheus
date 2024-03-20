@@ -1,6 +1,6 @@
 # Personal Finance App
 
-This is a personal finance application developed with React Native, where users can view their balance, recent financial transactions, and perform various actions related to their finances.
+This is a personal finance application developed with React Native, where users can view their balance and recent financial transactions.
 
 ## Key Features
 
